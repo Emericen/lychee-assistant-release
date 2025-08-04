@@ -1,4 +1,4 @@
-# Lychee Desktop Assistant - Releases
+# Lychee Assistant - Releases
 
 This repository hosts the official releases of **Lychee Desktop Assistant**, a desktop assistant that helps you control your computer and be more productive.
 
